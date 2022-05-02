@@ -1,2 +1,3 @@
 # jogoResilia
-Primeiro jogo desenvolvida para resilia com html, Css e Js.
+Primeiro jogo desenvolvido para resilia com html, Css e Js.
+Versão 1.0.3 
